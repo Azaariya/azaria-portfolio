@@ -1,16 +1,101 @@
-# React + Vite
+# 👋 Azaria's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository! This project showcases my skills, selected projects, and journey as an aspiring frontend developer.
 
-Currently, two official plugins are available:
+## 🌟 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a fourth-year Electrical and Computer Engineering student at **Addis Ababa Science and Technology University**, passionate about building practical, responsive, and user-friendly web applications.
 
-## React Compiler
+I'm continuously developing my skills in JavaScript, React, and modern frontend technologies by building projects and exploring new concepts.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+* **Frontend:** HTML5, CSS3, JavaScript, React
+* **Build Tool:** Vite
+* **Version Control:** Git and GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Featured Projects
+
+### 🎬 Movie Seat Booking
+
+An interactive movie application featuring movie discovery, showtimes, seat selection, and booking management.
+
+[Repository](https://github.com/Azaariya/Movie-seat-booking-app) · [Live Demo](https://movie-booking-app-by-azariya.netlify.app/)
+
+### 🌦️ Weather Dashboard
+
+A weather application that retrieves current weather information and presents it through a user-friendly interface.
+
+[Repository](https://github.com/Azaariya/Weather-Dashboard) · [Live Demo](https://weather-dashboard-by-azariya.vercel.app/)
+
+### 💪 Workout Tracker
+
+A React application for organizing and tracking workouts.
+
+[Repository](https://github.com/Azaariya/Workout-Tracker) · [Live Demo](https://workout-tracker-by-azariya.netlify.app/)
+
+### 🏡 Property Management App
+
+A real-estate application for browsing property listings and viewing property details.
+
+[Repository](https://github.com/Azaariya/Property-Managment-appp) · [Live Demo](https://property-managment-app-by-azariya.netlify.app/)
+
+### 💰 Expense Tracker
+
+A personal finance application for recording income and expenses and monitoring financial balances.
+
+[Repository](https://github.com/Azaariya/Expense-Tracker) · [Live Demo](https://expense-tracker-by-azariya.netlify.app/)
+
+## 💻 Run Locally
+
+### Prerequisites
+
+* [Node.js](https://nodejs.org/)
+* npm
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Azaariya/azaria-portfolio.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd azaria-portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## 🎯 Goals
+
+* Continue improving my React and JavaScript skills.
+* Build polished, accessible, and responsive web applications.
+* Write clean, maintainable code.
+* Grow as a frontend developer through hands-on projects.
+
+## 📫 Connect With Me
+
+* **GitHub:** [@Azaariya](https://github.com/Azaariya)
+
+## 📄 License
+
+This project is available for viewing and learning. Contact me before reusing substantial portions of the code.
+
+---
+
+*Designed and developed by Azaria.*
