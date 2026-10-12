@@ -13,7 +13,6 @@ export const portfolioData = {
     githubUsername: "Azaariya",
     githubUrl: "https://github.com/Azaariya",
     linkedinUrl: "http://linkedin.com/in/azariya-ameha-62a60637b",
-    // In case your Hero card pulls featuredApp directly from personal config:
     featuredApp: "Movie Seat Booking App"
   },
 
@@ -84,14 +83,14 @@ export const portfolioData = {
       keyPoints: ["Dynamic seat selection state", "Price and ticket count math", "TMDB API movie fetching & search"]
     },
     {
-      id: "bank-app",
-      title: "Banking Analytics App",
+      id: "analytic-dashboard",
+      title: "Analytic Dashboard",
       category: "React",
-      description: "A dynamic React dashboard focused on financial tracking, operational expense monitoring, and account analytics with interactive component states.",
-      technologies: ["React", "JavaScript", "Tailwind CSS", "Component State"],
-      githubUrl: "https://github.com/Azaariya/Bank-App",
-      liveUrl: "https://bank-app-by-azariya.netlify.app",
-      keyPoints: ["Financial data visualization", "Stateful transaction forms", "Component modularity"]
+      description: "Comprehensive React analytics dashboard designed to monitor SaaS metrics, transaction performance, user activity, and dynamic financial insights.",
+      technologies: ["React", "JavaScript", "Tailwind CSS", "Chart / Data Viz"],
+      githubUrl: "https://github.com/Azaariya/Analytic-dashboard",
+      liveUrl: "https://analytic-dashboard-opal.vercel.app",
+      keyPoints: ["Interactive data visualizations", "Metric tracking & revenue insights", "Responsive modern SaaS UI"]
     },
     {
       id: "expense-tracker",
